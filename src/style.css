@@ -22,3 +22,8 @@ img {
   text-align: center;
   margin: 20px;
 }
+
+.lyrics {
+  font-style: italic;
+  text-align: center;
+}
